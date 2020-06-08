@@ -1,0 +1,2 @@
+<_io.TextIOWrapper name='quiz/2.txt' mode='r' encoding='cp1251'>:0:00:14.243320 
+<_io.TextIOWrapper name='quiz/1.txt' mode='r' encoding='cp1251'>:0:00:04.159392 
