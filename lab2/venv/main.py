@@ -1,8 +1,6 @@
 import re
 import os.path
-from functools import wraps
-from contextlib import contextmanager
-from typing import Tuple, TextIO
+from typing import Tuple
 
 
 def counter(filename:str) ->Tuple[int,int,int,int,int]:
